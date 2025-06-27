@@ -13,7 +13,7 @@ import os
 
 st.set_page_config(page_title="France Electricity Analysis", layout="wide")
 st.title("French Electricity Consumption and Production : Potential Blackout Analysis")
-st.title("Test")
+st.title("Test 2")
 st.sidebar.title("Table of contents")
 pages=["Introduction","Exploration", "DataVizualization","Conclusion"]
 page=st.sidebar.radio("Go to", pages)
