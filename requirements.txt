@@ -1,4 +1,4 @@
+streamlit
 matplotlib
 seaborn
-plotly.graph_objects
-os
+plotly
